@@ -32,7 +32,7 @@ public class Main1 {
 		
 		System.out.println("Test 7");
 		
-		System.out.println("Test 8");
+		System.out.println("Test 8_1");
 		
 		System.out.println("Test 9_2");
 		
