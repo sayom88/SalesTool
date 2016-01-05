@@ -36,6 +36,6 @@ public class Main1 {
 		
 		System.out.println("Test 9");
 		
-		System.out.println("Test 10");
+		System.out.println("Test 10_1");
 	}
 }
